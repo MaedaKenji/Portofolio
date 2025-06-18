@@ -6,7 +6,7 @@ export default function Hero() {
         <section className="bg-gradient-to-br from-blue-100 via-white to-pink-100 py-20" id="home">
             <div className="container mx-auto flex flex-col items-center text-center">
                 <img
-                    src="public/images/PAS FOTO Upscale.png"
+                    src="images/PAS FOTO Upscale.png"
                     alt="Agus Fuad avatar"
                     className="rounded-full w-32 h-32 shadow-lg mb-6 border-4 border-blue-400 object-cover object-[50%_20%] "
                 />
