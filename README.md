@@ -9,28 +9,13 @@ A personal portfolio website showcasing projects, skills, and experience.
 - Skills section
 - Contact information
 
-## Getting Started
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js
 - npm or yarn
 
-### Installation
 
-```bash
-git clone <repository-url>
-cd Portfolio
-npm install
-```
-
-### Running Locally
-
-```bash
-npm start
-```
-
-Visit `http://localhost:3000` in your browser.
 
 ## Project Structure
 
@@ -46,16 +31,7 @@ Visit `http://localhost:3000` in your browser.
 - HTML5
 - CSS3
 - JavaScript
-- [Add your frameworks here]
-
-## Contributing
-
-Contributions are welcome. Please fork and create a pull request.
-
-## License
-
-[Add your license here]
+- React
 
 ## Contact
-
-[Add your contact information here]
+https://www.linkedin.com/in/agus4434/
