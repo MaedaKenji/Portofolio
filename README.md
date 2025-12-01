@@ -1,12 +1,61 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing projects, skills, and experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design
+- Project showcase
+- Skills section
+- Contact information
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone <repository-url>
+cd Portfolio
+npm install
+```
+
+### Running Locally
+
+```bash
+npm start
+```
+
+Visit `http://localhost:3000` in your browser.
+
+## Project Structure
+
+```
+├── src/
+├── public/
+├── package.json
+└── README.md
+```
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [Add your frameworks here]
+
+## Contributing
+
+Contributions are welcome. Please fork and create a pull request.
+
+## License
+
+[Add your license here]
+
+## Contact
+
+[Add your contact information here]
