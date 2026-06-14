@@ -12,6 +12,9 @@ export default function Navbar() {
                         <a href="#projects" className="hover:text-blue-600 duration-150">Projects</a>
                     </li>
                     <li>
+                        <a href="#certifications" className="hover:text-blue-600 duration-150">Certifications</a>
+                    </li>
+                    <li>
                         <a href="#contact" className="hover:text-blue-600 duration-150">Contact</a>
                     </li>
                 </ul>
